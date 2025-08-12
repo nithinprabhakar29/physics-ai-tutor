@@ -1,0 +1,13 @@
+# Core dependencies (used by both v1.6 and v1.4)
+chromadb
+sentence-transformers
+PyPDF2
+openai
+python-dotenv
+
+# Optional: Required only for OCR features in v1.4
+pdf2image
+pytesseract
+numpy
+opencv-python
+Pillow

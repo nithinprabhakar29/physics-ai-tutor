@@ -1,0 +1,15 @@
+.env
+
+
+__pycache__/
+*.pyc
+
+
+*.db
+
+
+diagrams/
+
+
+.DS_Store
+Thumbs.db
